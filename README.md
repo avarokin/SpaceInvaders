@@ -4,3 +4,5 @@ To run, first make sure you have pygame installed, if not run:
   pip install pygame
   
 Then simply run game.py
+
+Use arrow keys to control player position, avoid emeny players.
